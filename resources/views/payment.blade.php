@@ -80,7 +80,7 @@
                         @csrf
                         <input type="text" required="" placeholder="Please input your Name" name="name" class="txt">
                         <input type="text" required="" placeholder="Please input your mobile No" name="mobile" class="txt">
-                        <input type="text" required="" placeholder="Please input your Email" name="email" class="txt">
+                        <input type="text" required="" placeholder="Please input your Email" id="email" name="email" class="txt">
                         
                         <input type="text" required="" placeholder="Please input your Amount" name="amount" class="txt">
                         <input type="submit" value="submit" name="submit" class="txt2">
